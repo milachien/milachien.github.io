@@ -1,0 +1,11 @@
+
+h1{color: #454851;}
+h2{color: #454851;}
+p{
+	color: #454851;
+	background:#FCEFF9;
+	border: 1px solid gray; 
+}
+p.green{
+	color:blue;
+}
